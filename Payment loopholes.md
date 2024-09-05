@@ -10,7 +10,7 @@ https://www.sourcecodester.com/php/15689/food-ordering-management-system-php-and
 /foms/place-order.php
 
 ## Description:
-Food Ordering Management 1.0 is vulnerable to an unrestricted amount modification logic vulnerability with total parameter in /foms/routers/place-order.php.The payment data package contains a lot of sensitive information (such as amount, order, user ID), and a malicious attacker can exploit this vulnerability to modify the sensitive information in the server database at will.
+Food Ordering Management 1.0 is vulnerable to an unrestricted amount modification logic vulnerability with total parameter in /foms/routers/place-order.php.The payment data package contains a lot of sensitive information (such as amount, order user ID), and malicious attackers can exploit this vulnerability to modify the sensitive information in the data packet.
 
 Status: CRITICAL
 
