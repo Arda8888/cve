@@ -37,7 +37,7 @@ Sec-Fetch-User: ?1
 type=2dsadsad&id=2dsadsa*&subject=22312&description=21242421312312312
 ```
 
-Get database username through sqlmap 
+Get database username through sqlma
 
 ![CleanShot 2024-09-04 at 16 05 07@2x](https://github.com/user-attachments/assets/d2b42765-9301-4603-a091-afef303bcf71)
 ![CleanShot 2024-09-04 at 16 05 41@2x](https://github.com/user-attachments/assets/1a460942-d900-4af8-b7a4-958c67a95daf)
