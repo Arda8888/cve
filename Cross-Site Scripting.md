@@ -1,4 +1,4 @@
-##The Food order management system has a reflective XSS vulnerability
+##The Food order management system has a Cross-Site Scripting vulnerability
 
 ## Affected version: 
 Food Ordering Management System - 1.0
@@ -10,7 +10,7 @@ https://www.sourcecodester.com/php/15689/food-ordering-management-system-php-and
 /foms/index.php
 
 ## Description:
-Food Ordering Management 1.0 is vulnerable to a reflected XSS vulnerability caused by the lack of filtering of input content in the textarea tab in /foms/index.php. A malicious attacker can exploit this vulnerability to generate a link containing malicious code to lure the victim into clicking on it.
+Food Ordering Management 1.0 is vulnerable to a Cross-Site Scripting vulnerability caused by the lack of filtering of input content in the textarea tab in /foms/index.php. A malicious attacker can exploit this vulnerability to generate a link containing malicious code to lure the victim into clicking on it.
 
 Status: Low risk
 
